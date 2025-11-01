@@ -6,7 +6,7 @@ Este proyecto es la Evaluacion 2 de Telepresencia y Entornos Innovadores de Cola
 Aplicacion de una API y un servicio de Geolocalizacion mediante un script de Python que usa el servicio de Direcciones de GraphHopper
 
 ## Archivo incluido
-- 'GraphHopper_PICCARDO.py' : El Script en Python con las mejoras solicitadas en la evaluacion
+- 'GraphHopper_Piccardo.py' : El Script en Python con las mejoras solicitadas en la evaluacion
 
 ## Instrucciones de ejecución
 1. descargar GraphHopper_Piccardo.py
